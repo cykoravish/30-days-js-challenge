@@ -7,15 +7,28 @@
 
 ##### Activity 1: Variable Declaration
 
-###### 1. Declare a variable using var, assign it a number, and log the value to the console.
+###### Task-1. Declare a variable using var, assign it a number, and log the value to the console.
 
 <details><summary><b>Answer</b></summary>
 <p>
 
 ```javascript
-var place;
-place = 1;
-console.log(place);
+var num;
+num = 1;
+console.log(num); //1
+```
+</p>
+</details>
+
+###### Task-2. Declare a variable using let, assign it a string, and log the value to the console.
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+```javascript
+let place;
+place = "uttarakhand";
+console.log(place); //"uttarakhand
 ```
 </p>
 </details>
