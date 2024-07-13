@@ -33,6 +33,8 @@ console.log(place); // Output: "uttarakhand"
 </p>
 </details>
 
+---
+
 ### Activity 2: Constant Declaration
 
 #### Task-3. Declare a variable using const, assign it a boolean value, and log the value to the console.
@@ -47,6 +49,8 @@ console.log(isOk);
 
 </p>
 </details>
+
+---
 
 ### Activity 3: Data Types
 
@@ -99,6 +103,8 @@ console.log(typeof myBig); // Output: "bigint"
 </p>
 </details>
 
+---
+
 ### Activity 4: Reassigning Variables
 
 #### Task-5. Declare a variable using let, assign it an initial value, reassign a new value, and log both values to the console.
@@ -117,6 +123,8 @@ console.log(myName); //output: "cykoRavish"
 
 </p>
 </details>
+
+---
 
 ### Activity 5: Understanding const
 
