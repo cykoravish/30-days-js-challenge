@@ -11,6 +11,7 @@
 
 <details><summary><b>Answer</b></summary>
 <p>
+
 ```javascript
 var place;
 place = 1;
