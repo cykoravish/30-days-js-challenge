@@ -17,6 +17,7 @@ var num;
 num = 1;
 console.log(num); // Output: 1
 ```
+
 </p>
 </details>
 
@@ -30,6 +31,7 @@ let place;
 place = "uttarakhand";
 console.log(place); // Output: "uttarakhand"
 ```
+
 </p>
 </details>
 
@@ -45,10 +47,11 @@ const isOk; //SyntaxError: Missing initializer in const declaration
 isOk = true;
 console.log(isOk);
 ```
+
 </p>
 </details>
 
-### Activity3: Data Types
+### Activity 3: Data Types
 
 ###### Task-4. Create variables of different data types(number, string, boolean, object, array) and log each variable's type using typeof operator.
 
@@ -85,7 +88,7 @@ let myUndefine;
 console.log(typeof myUndefine); // Output: "undefined"
 
 // Function
-let myFunction = function() {};
+let myFunction = function () {};
 console.log(typeof myFunction); // Output: "function"
 
 // Symbol
@@ -95,7 +98,27 @@ console.log(typeof mySymbol); // Output: "symbol"
 // BigInt
 let myBig = 9007199254740991n;
 console.log(typeof myBig); // Output: "bigint"
-
 ```
+
+</p>
+</details>
+
+### Activity 4: Reassigning Variables
+
+###### Task-5. Declare a variable using let, assign it an initial value, reassign a new value, and log both values to the console.
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+```javascript
+let myName;
+
+myName = "Ravish";
+console.log(myName); //output: "Ravish"
+
+myName = "cykoRavish";
+console.log(myName); //output: "cykoRavish"
+```
+
 </p>
 </details>
