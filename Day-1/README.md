@@ -122,3 +122,22 @@ console.log(myName); //output: "cykoRavish"
 
 </p>
 </details>
+
+### Activity 4: Understanding const
+
+###### Task-6. Try reassigning a variable declared with const, and observe the error.
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+```javascript
+const myConstant = 30;
+console.log(myConstant); // Output: 30
+
+// Attempt to reassign the variable
+myConstant = 40; // Uncaught TypeError: invalid assignment to const 'myConstant'
+console.log(myConstant);
+```
+
+</p>
+</details>
