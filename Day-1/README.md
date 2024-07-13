@@ -15,7 +15,7 @@
 ```javascript
 var num;
 num = 1;
-console.log(num); //1
+console.log(num); // Output: 1
 ```
 </p>
 </details>
@@ -28,7 +28,7 @@ console.log(num); //1
 ```javascript
 let place;
 place = "uttarakhand";
-console.log(place); //"uttarakhand"
+console.log(place); // Output: "uttarakhand"
 ```
 </p>
 </details>
@@ -44,6 +44,57 @@ console.log(place); //"uttarakhand"
 const isOk; //SyntaxError: Missing initializer in const declaration
 isOk = true;
 console.log(isOk);
+```
+</p>
+</details>
+### Activity 3: Data Types
+
+###### Task-4. Create variables of different data types(number, string, boolean, object, array) and log each variable's type using typeof operator.
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+```javascript
+// Number
+let myNumber = 42;
+console.log(typeof myNumber); // Output: "number"
+
+// String
+let myString = "Hello, World!";
+console.log(typeof myString); // Output: "string"
+
+// Boolean
+let myBool = true;
+console.log(typeof myBool); // Output: "boolean"
+
+// Object
+let obj = { name: "John", age: 30 };
+console.log(typeof obj); // Output: "object"
+
+// Array
+let arr = [1, 2, 3, 4, 5];
+console.log(typeof arr); // Output: "object"
+
+// Null
+let myNul = null;
+console.log(typeof myNul); // Output: "object"
+
+// Undefined
+let myUndefine;
+console.log(typeof myUndefine); // Output: "undefined"
+
+// Function
+let myFunction = function() {};
+console.log(typeof myFunction); // Output: "function"
+
+// Symbol
+let mySymbol = Symbol();
+console.log(typeof mySymbol); // Output: "symbol"
+
+// BigInt
+let myBig = 9007199254740991n;
+console.log(typeof myBig); // Output: "bigint"
+
 ```
 </p>
 </details>
