@@ -118,7 +118,7 @@ console.log(myName); //output: "cykoRavish"
 </p>
 </details>
 
-### Activity 4: Understanding const
+### Activity 5: Understanding const
 
 #### Task-6. Try reassigning a variable declared with const, and observe the error.
 <details><summary><b>Answer</b></summary>
