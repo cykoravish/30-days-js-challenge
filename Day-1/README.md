@@ -1,6 +1,6 @@
 <div align="center">
   <img height="60" src="https://img.icons8.com/color/344/javascript.png">
-  <h1>Day-1 (JavaScript Questions)</h1>
+  <h1>Day-1 (JavaScript Challenge)</h1>
 </div>
 
 ---
