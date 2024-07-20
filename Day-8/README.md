@@ -19,6 +19,7 @@ const age = 25;
 const message = `Hello, my name is ${name} and I am ${age} years old.`;
 
 console.log(message); //output: "Hello, my name is Ravish and I am 25 years old."
+
 ```
 
 </p>
@@ -49,11 +50,11 @@ console.log(message); //output: "Hi, my name is ravish.
 <details><summary><b>Answer</b></summary>
 <p>
 
-````javascript
+```javascript
 let numArr = [2, 4, 6, 8, 10];
 let [firstElem, secondElem] = numArr;
 console.log(firstElem, secondElem) //ouyput: 2, 4
-``
+```
 
 </p>
 </details>
@@ -71,7 +72,7 @@ const book = {
 const {title, author} = book;
 console.log(title, author); //output: "on my way" "ravish"
 
-``
+```
 
 </p>
 </details>
@@ -88,7 +89,7 @@ let arr = [1, 2, 3, 4, 5, 6];
 const newArr = [...arr, 7, 8];
 console.log(newArr);
 
-``
+```
 
 </p>
 </details>
@@ -107,11 +108,11 @@ function sumAll(...arr){
 console.log(sum);
 };
 sumAll(1,2,3,4,5);
-``
+```
 
 </p>
 </details>
-````
+
 ### Activity 4: Default Parameter
 
 #### Task-7. Write a function takes two parameter and return their product, with the second parameter default value of 1. Log the result of calling this function with or without second parameter.
@@ -126,11 +127,11 @@ function product(a, b=1){
 
 console.log(product(2,5)); //output: 10
 console.log(product(2)); //output: 2
-``
+```
 
 </p>
 </details>
-````
+
 ### Activity 5: Enhanced object literals
 
 #### Task-8. use enhanced object literals to create an object with methods and properties, and log the object to the console.
@@ -159,11 +160,11 @@ console.log(person.greet());
 console.log(person.updateAge(26));
 console.log(person.greet());
 
-``
+```
 
 </p>
 </details>
-````
+```
 
 #### Task-9. create an object with computed property names based on variables and log the object to the console.
 
@@ -183,9 +184,7 @@ const person = {
 
 console.log(person); //output: { firstName: "John", lastName: "Doe", age: 30 }
 
-
-``
+```
 
 </p>
 </details>
-````
