@@ -7,7 +7,7 @@
 
 ### Activity 1: Template Literals
 
-#### Task-1. Use template titerals to create a string that includes variables for a person's name and age, and logthestring to the console.
+#### Task-1. Use template literals to create a string that includes variables for a person's name and age, and log the string to the console.
 
 <details><summary><b>Answer</b></summary>
 <p>
