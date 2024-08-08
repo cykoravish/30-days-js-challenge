@@ -1,9 +1,9 @@
 <div align="center">
   <img height="60" src="https://img.icons8.com/color/344/javascript.png">
-  <h1>30 Days 30 JavaScript Challenges</h1>
+  <h1>JavaScript Challenges</h1>
 </div>
 
-Welcome to the **30 Days 30 JavaScript Challenges** repository! This project is dedicated to improving your JavaScript skills through a series of daily challenges. Each day, I'll be tackling a new JavaScript problem, sharing solutions, and explaining the concepts behind them.
+Welcome to the **avaScript Challenges** repository! This project is dedicated to improving your JavaScript skills through a series of daily challenges. Each day, I'll be tackling a new JavaScript problem, sharing solutions, and explaining the concepts behind them.
 
 ## Table of Contents
 
@@ -56,17 +56,6 @@ JavaScript is a powerful and versatile programming language used in web developm
 17. **Day 17:** [Data Structures](./Day-17)
 18. **Day 18:** [Algorithms](./Day-18)
 19. **Day 19:** [Regular Expression](./Day-19)
-20. **Day 20:** [LocalStorage and SessionStorage](./Day-20)
-21. **Day 21:** [LeetCode Easy](./Day-21)
-22. **Day 22:** [LeetCode Medium](./Day-22)
-23. **Day 23:** [LeetCode Hard](./Day-23)
-24. **Day 24:** [Project-1 weather app](./Day-24)
-25. **Day 25:** [Movie search app](./Day-25)
-26. **Day 26:** [chat app](./Day-26)
-27. **Day 27:** [Task Management App](./Day-27)
-28. **Day 28:** [E-comerce App](./Day-28)
-29. **Day 29:** [Project-6 Social Media Dashboard](./Day-29)
-30. **Day 30:** [Social Media Dashboard with full Features](./Day-30)
 
 *Note:* The challenges will be updated daily, so make sure to check back regularly or star the repository to keep up with the latest challenges.
 
